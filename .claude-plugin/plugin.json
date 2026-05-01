@@ -1,0 +1,12 @@
+{
+  "name": "mail-matrix",
+  "version": "0.1.0",
+  "description": "Intelligent email routing for Cowork. Automatically sorts your inbox based on sender, recipient, subject keywords, and date rules — with Claude handling new senders intelligently.",
+  "author": {
+    "name": "Dan Chandler",
+    "url": "https://github.com/cs4p"
+  },
+  "repository": "https://github.com/cs4p/MailMatrix",
+  "license": "MIT",
+  "keywords": ["email", "inbox", "routing", "automation", "fastmail", "gmail"]
+}
