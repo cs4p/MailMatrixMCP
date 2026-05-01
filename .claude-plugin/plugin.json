@@ -6,7 +6,7 @@
     "name": "Dan Chandler",
     "url": "https://github.com/cs4p"
   },
-  "repository": "https://github.com/cs4p/MailMatrix",
+  "repository": "https://github.com/cs4p/MailMatrixMCP",
   "license": "MIT",
   "keywords": ["email", "inbox", "routing", "automation", "fastmail", "gmail"]
 }
